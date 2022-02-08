@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sumit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Karn</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer from India.</h3>
 
 <br/>
@@ -13,11 +13,12 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sumit-sumitkumar308786-gmailcom.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://eager-wing-a88676.netlify.app/
+)**
 
-- 📫 How to reach me **sumitkumar308786@gmail.com**
+- 📫 How to reach me **Kumardeepak971857@gmail.com**
 
-- ⚡ Fun fact **I play video game and Watch movies.**
+- ⚡ Fun fact **I Watch movies and sleeping.**
 
 ## 🚀 Languages and Tools:
 
@@ -33,18 +34,18 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" style="margin-right:20px"/>
     <img src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" style="padding:8px" style="margin-right:20px"/>
-    <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC.jpg" width="50" height="40" style="margin-right:20px"/>
+<!--     <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC.jpg" width="50" height="40" style="margin-right:20px"/> -->
 </p>
 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sumit-krk/github-readme-streak-stats">
+<!--     <a href="https://github.com/sumit-krk/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sumit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-krk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a> -->
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/sumit-krk/github-readme-stats"><img alt="sumit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumit-krk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -57,11 +58,11 @@
 
 <br/>
 <br/>
-
+ -->
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sumitkrk/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/deepak-kumar-karn-b0bb6922a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/G_Yashvant/"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a> -->
 
 </p>
