@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Kumardeepak971857@gmail.com**
 
-- ⚡ Fun fact **I Watch movies and sleeping.**
+- ⚡ Fun fact **I watch web series and sleeping.**
 
 ## 🚀 Languages and Tools:
 
