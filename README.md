@@ -1,6 +1,6 @@
-<!-- <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/> -->
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Karn , An aspiring full-stack web developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
+ ## Hi 👋, I'm  Deepak Kumar Karn ,
+An aspiring full-stack web developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
 
 Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.
 
