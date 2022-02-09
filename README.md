@@ -7,7 +7,7 @@ Full Stack Web Developer with hands-on experience in designing, developing, and 
 <br/>
 
 ## 🙋‍♂️ About Me
-
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/118246/screenshots/5343519/wifi.gif" width="400" height="280" style=" padding:2%" />
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.** 
