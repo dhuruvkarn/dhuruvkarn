@@ -46,4 +46,7 @@ Full Stack Web Developer with hands-on experience in designing, developing, and 
  <a href = "mailto:kumardeepak971857@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhuruvkarn&show_icons=true&theme=gotham" alt="Deepak" />
 
