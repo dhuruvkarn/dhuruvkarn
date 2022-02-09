@@ -43,6 +43,7 @@ Full Stack Web Developer with hands-on experience in designing, developing, and 
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/deepak-kumar-karn-b0bb6922a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "mailto:kumardeepak971857@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 
