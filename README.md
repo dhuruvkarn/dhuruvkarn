@@ -44,10 +44,10 @@ Full Stack Web Developer with hands-on experience in designing, developing, and 
 
 📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dhuruvkarn&show_icons=true&theme=gotham" alt="dhuruvkarn" />
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruvkarn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dhuruvkarn" height="192px"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dhuruvkarn&show_icons=true&theme=gotham" alt="dhuruvkarn" width = "45%" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhuruvkarn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dhuruvkarn" height="192px" width = "45%"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
  
  ## 🔥 Streak Stats
