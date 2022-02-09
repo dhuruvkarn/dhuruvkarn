@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Karn , An aspiring full-stack developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.</h3>
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Karn , An aspiring full-stack developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
 <!-- <h3 align="center">Aspiring Full-Stack Web Developer from India.</h3> -->
 
 <br/>
