@@ -2,13 +2,15 @@
 
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Karn , An aspiring full-stack web developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
 
+Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.
+
 <br/>
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**       <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
