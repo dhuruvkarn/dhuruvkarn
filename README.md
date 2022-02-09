@@ -1,7 +1,6 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<!-- <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/> -->
 
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Karn , An aspiring full-stack developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
-<!-- <h3 align="center">Aspiring Full-Stack Web Developer from India.</h3> -->
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Kumar Karn , An aspiring full-stack web developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
 
 <br/>
 
@@ -9,7 +8,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**
+- 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**       <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
