@@ -1,3 +1,8 @@
+<a href="https://github.com/dhuruv?tab=followers">
+    <img src="https://img.shields.io/github/followers/dhuruv?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/dhuruv/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dhuruv">
+</a>
 
  ## Hi 👋, I'm  Deepak Kumar Karn ,
 An aspiring full-stack web developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
