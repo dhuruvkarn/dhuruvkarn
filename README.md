@@ -19,7 +19,7 @@ Full Stack Web Developer with hands-on experience in designing, developing, and 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://eager-wing-a88676.netlify.app/
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://depak-portfolio.netlify.app/
 )**
 
 - 📫 How to reach me **Kumardeepak971857@gmail.com**
