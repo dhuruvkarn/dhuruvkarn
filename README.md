@@ -3,6 +3,9 @@
 <a href="https://github.com/dhuruv/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dhuruv">
 </a>
+<a href="https://github.com/WasimRehmn/WasimRehmn/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dhuruvkarn/awesome-github-profile-readme?color=2b9348">
+</a>
 
  ## Hi 👋, I'm  Deepak Kumar Karn ,
 An aspiring full-stack web developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
