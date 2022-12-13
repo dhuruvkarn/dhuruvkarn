@@ -5,9 +5,10 @@
 </a>
 
  ## Hi 👋, I'm  Deepak Kumar Karn ,
-An aspiring full-stack web developer with a specialization in MERN stack with a passion for learning and do something meaningful with my learning.
-
-Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.
+I'm an Ambitious & Intuitive Frontend Developer with hands-on
+experience in designing, developing, and implementing
+applications and solutions using JavaScript, ReactJs & also
+Knowledge of NodeJs. Adept at learning, unlearning, and relearning.
 
 <br/>
 
